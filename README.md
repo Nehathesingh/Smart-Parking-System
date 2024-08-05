@@ -16,5 +16,6 @@ The code for the project is written in C++ and includes logic for detecting vehi
 ***
 ## Setup
 Hardware: Assemble the ESP8266 microcontroller and ultrasonic sensors as per the circuit diagram.
+
 Software: Upload the provided code to the microcontroller. Set up the web application for monitoring and payment processing.
 ***
